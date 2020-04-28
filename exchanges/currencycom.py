@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+""" Currencycom Client """
+
 import hashlib
 import hmac
 from datetime import datetime, timedelta
